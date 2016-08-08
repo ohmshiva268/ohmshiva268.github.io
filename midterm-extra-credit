@@ -1,0 +1,18 @@
+<!doctype html>
+    <style>
+    body{
+      text-align: center;
+      margin:0;
+     font-family: 'Lato', sans-serif;
+           background-image: url();
+          background-size: 100% ;
+       background-repeat: no-repeat;
+    }
+    </style>
+    <section id=intro>
+<h1>Extra CREDIT</h1>
+Code This Website!
+<br>
+Its easy if you know your <h2>html</h2> and <h3>CSS</h3>
+<h3>Due Week 6.
+</section>
