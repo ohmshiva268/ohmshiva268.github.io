@@ -1,10 +1,11 @@
 <!doctype html>
+<html>
     <style>
     body{
       text-align: center;
       margin:0;
      font-family: 'Lato', sans-serif;
-           background-image: url();
+           background-image: url(backgroundmidterm.jpg);
           background-size: 100% ;
        background-repeat: no-repeat;
     }
